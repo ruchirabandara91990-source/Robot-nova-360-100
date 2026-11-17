@@ -1,48 +1,51 @@
 # ROBOT NOVA 360 - 100 🤖
 
-> **Status:** ✅ **COMPLETED**[cite: 3] | **Developer:** H. M. Ruchira Kanishka Bandara[cite: 3]
+A multi-functional smart service robot developed by integrating modern electronic components, sensors, control systems, and automation technologies.
 
 ---
 
-## ⚡ Quick Snapshot (এক નજරින් / At a Glance)
-**ROBOT NOVA 360 - 100** is an advanced, multi-functional service robot combining mobility, voice interaction, cleaning, safety monitoring, and entertainment into a single autonomous platform[cite: 3]. Designed for hospitals, homes, and smart facilities, it operates primarily on electricity backed by solar energy[cite: 3].
+## 📋 Project Status
+* **Status:** ✅ **COMPLETED**[cite: 3]
+* **Developer:** H. M. Ruchira Kanishka Bandara[cite: 3]
 
 ---
 
-## 🛠️ 1. Mechanical Build & Mobility
-* **Structure:** Robust metal plates and box-section bars housing all core electronics and functional modules[cite: 3].
-* **Power & Drive:** Equipped with a 3000 mAh battery, dual drive motors, and integrated sensors[cite: 3].
-* **Mobility Range:** Engineered for smooth forward, backward, and sideways movement[cite: 3].
+## 🌟 1. Project Overview
+**ROBOT NOVA 360 - 100** is a versatile service robot designed to support a range of tasks in environments such as hospitals, homes, and other public or private facilities[cite: 3]. Powered primarily by electricity with solar energy as an additional power source, the robot combines advanced electronic control with robust mechanical design[cite: 3].
 
 ---
 
-## 🌟 2. Core Features & Capabilities
-
-### 🗣️ Smart Interaction & Utility
-* **Google Assistant:** Built-in voice commands to interact and retrieve global information[cite: 3].
-* **Smartphone Interface:** Front-mounted mobile display for apps, phone features, and children's games[cite: 3].
-* **Sound & Lighting:** Built-in audio system for music/entertainment[cite: 3] and an automatic night light[cite: 3].
-* **Device Charging:** Integrated charging adapter for mobile phones[cite: 3].
-
-### 🛡️ Hygiene, Safety & Security
-* **Sanitization:** Automatic sanitization system with a disinfectant sprayer[cite: 3].
-* **Cleaning Module:** Removable cleaning attachment featuring an integrated vacuum cleaner[cite: 3].
-* **Hazard Alerts:** Built-in fire detection and gas-leak warning systems[cite: 3].
-* **Security & Monitoring:** Integrated security system[cite: 3] with remote camera operation and voice recording for doctor-patient communication[cite: 3].
-
-### 🧭 Autonomous Navigation & Stability
-* **4-Way Navigation Systems:** 
-  * *Human-Following System* (tracks and follows individuals)[cite: 3]
-  * *Line-Following System*[cite: 3]
-  * *Optical Obstacle Detection & Avoidance*[cite: 3]
-  * *Remote-Controlled Operation*[cite: 3]
-* **Terrain Stability:** Special balance-maintenance capability for operating near slopes, inclines, and staircases[cite: 3].
+## ⚙️ 2. Mechanical Structure and Mobility
+* **Structure:** The upper and lower sections are constructed using metal plates and box-section bars, providing secure mounting space for electronic components and functional modules[cite: 3].
+* **Power & Drive:** The lower section houses a 3000 mAh battery, two drive motors, and key electronic sensors[cite: 3].
+* **Mobility:** The drive system is engineered to support forward, backward, and sideways movement[cite: 3].
 
 ---
 
-## 🚀 3. Outcome & Future Roadmap
-* **Project Outcome:** Successfully integrates cross-domain technologies (mechanical engineering, electronics, sensors, and automation) into a unified service robot[cite: 3].
-* **Future Scope:** Expanding capabilities to deploy the unit as an automated receptionist or information assistant in professional environments[cite: 3].
+## ✨ 3. Key Features and Capabilities
+
+* **🗣️ Voice Assistant:** Google Assistant integration enables users to request information and interact using voice commands[cite: 3].
+* **🛡️ Automatic Sanitization:** Equipped with an automatic sanitization system and disinfectant sprayer to sterilize the surrounding environment[cite: 3].
+* **🧹 Detachable Cleaning System:** Features a removable cleaning module including an integrated vacuum cleaner[cite: 3].
+* **📱 Smartphone Display:** A front-mounted mobile phone provides access to smartphone functions and entertainment applications, including games[cite: 3].
+* **💡 Automatic Night Light:** Automatically illuminates surrounding areas in dark conditions[cite: 3].
+* **📷 Camera & Communication:** Supports remote observation and communication, including doctor-patient interactions[cite: 3].
+* **🎙️ Voice Recording & Remote Control:** Includes voice-recording functionality and a camera designed for remote operation[cite: 3].
+* **🚨 Security & Safety Systems:** Features an integrated security system, fire-detection functionality, and a gas-leak warning system[cite: 3].
+* **🎵 Sound System:** Built-in audio system for music playback and entertainment[cite: 3].
+* **🧭 Advanced Navigation Systems:** 
+  * Human-Following Navigation (detects and follows individuals)[cite: 3]
+  * Remote-Controlled Operation[cite: 3]
+  * Line-Following Path Navigation[cite: 3]
+  * Optical Obstacle Detection & Avoidance[cite: 3]
+* **⚖️ Terrain Stability:** Engineered to maintain balance when operating near slopes, inclines, and staircases[cite: 3].
+* **🔌 Utility:** Includes a charging adapter allowing users to charge mobile phones[cite: 3].
+
+---
+
+## 🚀 4. Project Outcome & Future Development
+* **Outcome:** Successfully brings together mobility, voice interaction, cleaning, monitoring, navigation, safety, and entertainment into a single unified robotic platform[cite: 3].
+* **Future Development:** Further opportunities include expanding its role to serve as a receptionist or an information-assistance system in suitable environments[cite: 3].
 
 ---
 
