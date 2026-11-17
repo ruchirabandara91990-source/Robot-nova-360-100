@@ -45,7 +45,7 @@ A multi-functional smart service robot developed by integrating modern electroni
 
 ## 🎥 4. Project Demos & Building Process
 - **[🔗 Watch Circuit Assembly & Building Process (Behind the Scenes)](https://drive.google.com/drive/folders/1z9fBzbiSFoc0b6QIHFv_4tN9N3d7NpVI?usp=sharing)**
-- **[🔗 Watch Robot Video & photos of participation in exhibitions ([තව_video_link_එකක්_තියෙනවා_නම්_මෙතනට_දාන්න](https://drive.google.com/drive/folders/1ub8TWuJ2hz4U0xOTw2IJ2r9FAXErlBaB?usp=sharing))**
+- **[🔗 Watch Robot Video & photos of participation in exhibitions ([](https://drive.google.com/drive/folders/1ub8TWuJ2hz4U0xOTw2IJ2r9FAXErlBaB?usp=sharing))**
 
 ---
 
